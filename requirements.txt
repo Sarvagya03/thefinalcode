@@ -5,4 +5,11 @@ transformers
 xgboost
 scikit-learn
 scipy
-bayesian-optimization
+bayesian-optimizationstreamlit
+torch
+transformers
+scikit-learn
+xgboost
+numpy
+pandas
+matplotlib
